@@ -1,0 +1,42 @@
+#wrapper {
+	background-color: lightgreen;
+	height: 700px;
+}
+
+#header{
+	display: inline-block;
+}
+
+#header h3 {
+	margin-left: 20px;
+	display: inline;
+}
+
+#header p {
+	display: inline-block;
+}
+
+#content{
+	text-align: center;
+	vertical-align: top;
+}
+
+.form {
+	background-color: white;
+	display: inline-block;
+	height: 160px;
+	width: 160px;
+	margin: 10px 25px;
+	vertical-align: top;
+}
+
+#game_log {
+	margin-left: 290px;
+	overflow: scroll;
+	background-color: white;
+	width: 850px;
+}
+
+ul {
+	list-style: none;
+}
